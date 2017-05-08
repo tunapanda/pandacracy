@@ -4,7 +4,7 @@ Hi there! Welcome to the Pandacracy Guidebook. The Guidebook will help guide you
 
 This is an evolving Guidebook to maintaining the energy and focus of self-managing teams and organizations. Since teams are made up of individuals, we place a strong focus on each individual's journey. 
 
-One of our Core Values is **respect for individuals**. Part of this is to help push humanity forward past the practice of grouping/stereotyping people based on certain traits -- whether that be gender, tribe, nationality, skin tone, etc. "Don't judge a book by it's cover," as they say. We recognize each person's strength and capacity to contribute to better communities, and apply a growth mindset to developing that strength and capacity every day. Another part of this is to recognize that each of us is different, and that's awesome. There's no evidence that Einstein said: 
+One of our Core Values is **respect for individuals**. Part of this is to help push humanity forward beyond the practice of grouping/stereotyping people based on certain traits -- whether that be gender, tribe, nationality, skin tone, etc. "Don't judge a book by it's cover," as they say. We recognize each person's strength and capacity to contribute to better communities, and apply a growth mindset to developing that strength and capacity every day. Another part of this is to recognize that each of us is different, and that's awesome. There's no evidence that Einstein said: 
 
 >"Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." - Probably Not Albert Einstein 
 
