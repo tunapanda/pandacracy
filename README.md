@@ -14,7 +14,7 @@ This Pandacracy Guidebook is based on the personal experience of growing our tea
 
 This Guidebook has been specifically designed for Tunapanda Institute, a training and digital services organization based in Kibera, Nairobi, Kenya. It is published under a Creative Commons (BY-SA) License, so do with it as you wish. Our Purpose was redefined in May 2017 as the following:
 
-> Tunapanda Institute trains young people in tech, design, and business skills so we become lifelong learners, earners, and problem solvers.
+> Tunapanda Institute trains young people in practical tech, design, and business skills so we become lifelong learners, earners, and problem solvers.
 
 We have not yet defined "young people" -- but suffice it to say that with enough creativity and curiosity, you can be 100 years **young**.
 
