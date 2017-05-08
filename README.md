@@ -1,12 +1,38 @@
 # Welcome
 
-Hi there! Welcome to the Pandacracy Guidebook. This guide will help you on your journey to manifesting your best self while engaging in lifelong learning, earning, and problems solving.
+Hi there! Welcome to the Pandacracy Guidebook. The Guidebook will help guide you on your journey to manifesting your best self while engaging in lifelong learning, earning, and problems solving.
 
-This is an evolving guidebook to maintaining the energy and focus of self-managing teams and organizations, and draws on a wealth of knowledge by thinkers such as Carol Dweck, Frederic Laloux, Lex Sisney, and more. Since teams are made up of individuals, we place a strong focus on each individual's journey. If we can properly align the Purpose of the team with the Purpose of the individual, and organize our projects and processes properly, magical things can happen. WARNING: making magic is not easy, it requires a great deal of energy and focus.
+This is an evolving Guidebook to maintaining the energy and focus of self-managing teams and organizations. Since teams are made up of individuals, we place a strong focus on each individual's journey. 
 
-This Guidebook has been specifically designed for Tunapanda Institute, a training and digital services organization based in Kibera, Nairobi, Kenya. Our Purpose was redefined in May 2017 as the following:
+One of our Core Values is **respect for individuals**. Part of this is to help push humanity forward past the practice of grouping/stereotyping people based on certain traits -- whether that be gender, tribe, nationality, skin tone, etc. "Don't judge a book by it's cover," as they say. We recognize each person's strength and capacity to contribute to better communities, and apply a growth mindset to developing that strength and capacity every day. Another part of this is to recognize that each of us is different, and that's awesome. There's no evidence that Einstein said: 
 
-> Tunapanda Institute exists to train young people in tech, design, and business skills so we become lifelong learners, earners, and problem solvers
+>"Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." - Probably Not Albert Einstein 
+
+But it's a great quote anyway.
+
+This Pandacracy Guidebook is based on the personal experience of growing our team from 2 people to more than 30 between 2014 and 2017 and making a lot of big mistakes along the way. We draw on a wealth of knowledge by thinkers such as Carol Dweck, Frederic Laloux, Wangari Maathai, Lex Sisney, and many more. Awesome things can happen if we 1) properly align the team's Purpose with the Purpose of the individual, while 2) organizing and energizing our projects and processes properly. WARNING: manifesting awesomeness is not easy, it requires a great deal of energy and focus.
+
+This Guidebook has been specifically designed for Tunapanda Institute, a training and digital services organization based in Kibera, Nairobi, Kenya. It is published under a Creative Commons (BY-SA) License, so do with it as you wish. Our Purpose was redefined in May 2017 as the following:
+
+> Tunapanda Institute trains young people in tech, design, and business skills so we become lifelong learners, earners, and problem solvers.
+
+We have not yet defined "young people" -- but suffice it to say that with enough creativity and curiosity, you can be 100 years **young**.
+
+## Core values
+
+Values are an important part of helping people develop in the context of a team. They help people figure out what to do and how to do it without being told what to do or how to do it.
+
+**Responsibility**. Operating openly and transparently to each other and the world.
+
+**Collaboration**. Working together to transcend boundaries.
+
+**Innovation**. Creating value through continuous innovation.
+
+**Respect**. Respecting each person as an individual.
+
+**Growth mindset**. Always learning. Always teaching. Together.
+
+The importance of combining Values with Purpose cannot be overstated. It's worth reading a bit from Laloux's Reinventing Organizations [wiki on Culture and Values](http://www.reinventingorganizationswiki.com/Culture_and_Values).
 
 # Pandacracy: Upgrade your management operating system 
 Pandacracy is an emerging flexible, light-weight, and portable "management operating system" that can help your team grow to the next level while encouraging people to bring their full selves to work, share their ideas, and innovate in line with your team or organization's Purpose.
