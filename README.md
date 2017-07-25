@@ -103,12 +103,12 @@ Managing finances in a responsible, transparent manner takes a bit of time, ener
 
 Personal and team finances are a bit like breathing:
 1. In
-- Out
+2. Out
 
 When you level up your skills and start using money mindfully, the pattern changes a bit:
 1. Money comes in
-- (+) Money is assigned a job 
-- Money goes out
+2. (+) Money is assigned a job 
+3. Money goes out
 
 ### Personal Finances
 
