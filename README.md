@@ -58,27 +58,9 @@ We see 3 primary functions of our team:
 2. **Producing and distributing.** This is how we send [energy](http://organizationalphysics.com/2012/02/20/the-universal-success-formula/) out into the world. We buid open source software and create open learning resources that digitize and extend our core training so that other individuals, groups, and organizations can copy our model and help improve on it.
 3. **Selling and earning.** This brings energy in so we can keep being who we are. We perform services for clients and (try to) convince people to support what we're doing. In order to maintain our reputation we have to execute well on work for clients by performing work creating curricula, digitizing materials, building software, peforming research using human centered design (HCD) methodologies, and consulting for others who wish to copy/modify our model.
 
-In order to accomplish this we divide our organization into various circles, which operate semi-autonomously, some of which are connected through "strategic grouping."
+In order to accomplish this we divide our organization into various **circles**, which operate semi-autonomously, some of which are connected through "strategic grouping."
 
 Soon we'll draw a diagram, but for now look at it this way:
-
-### An Incomplete Map of the Earth Circles
-
-* Earth (planet: super-circle of the continents)
- * Africa (continent: sub-circle of Earth + super-circle of Nairobi, Mombasa, Cairo, etc)
-  * Nairobi (city: sub-circle of Africa + super-circle of Kibera)
-   * Kibera (the creative center of the universe)
-   * Dandora (wishes it were as creative as Kibera)
-  * Mombasa (city: sub-circle of Africa)
-  * Cairo (city: sub-circle of Africa)
- * The Americas (continent: sub-circle of Earth + super-circle of Rio de Janeiro, New York, Mexico City, etc)
-  * Rio de Janeiro (city: sub-circle of The Americas)
-  * New York (city: sub-circle of The Americas + super-circle of Brooklyn, Wall Street, etc)
-   * Brooklyn (Nas)
-   * Wall Street (building bridges or walls, it's hard to say)
-  * Mexico City (city: sub-circle of The Americas)
- * Jamaica (continent: sub-circle of Earth + super-circle of Kingston)
-  * Kingston (city: home of Damian and Bob Marley)
 
 ### A Complete Map of the Tunapanda Institute Circles
 * Tunapanda Core Circle
@@ -88,4 +70,73 @@ Soon we'll draw a diagram, but for now look at it this way:
 The assignment of energy points allows peer-to-peer evaluation of roles within a given circle. The points take on meaning when bonus money (usually from work performed for clients) flows through the energy points system.
 
 The process is as follows:
-* 
+[TODO]
+
+# Money
+
+Money is a very interesting technology. It serves a variety of functions, which we'll discuss elsewhere.
+
+Some people think of money as a way of keeping score. Others think of it as an object. We recommend that you **not** think of it in those ways. Instead, think of money as a tool or "social technology" that can help remove obstacles and enable you to shape the present to grow the future you would like to have. You need to develop the right Knowledge, Skills, and Attitudes (KSA) about money just as you do any other tool or technology.
+
+For those interested in the topic, there are several resources to help you think about money as a technology, rather than an object.
+
+My recommendation is to learn about the history of money, and to begin with the work of Niall Ferguson. He wrote a book, ["The Ascent of Money"](https://www.amazon.com/Ascent-Money-Financial-History-World/dp/0143116177). That book was turned into a [6-episode documentary series](https://www.youtube.com/watch?v=fsrtB5lp60s) which you can watch online.
+
+The above documentary series should give you enough **perspective about money** to speed up developing your **money skills**.
+
+Understanding and managing money is a very important part of being a responsible member of society, team member, and family member. So please take it seriously, and don't be afraid to talk about how money works with other people!
+
+## Practical Financial Skills
+
+Managing finances in a responsible, transparent manner takes a bit of time, energy, and focus:
+- First you need to **set up the right systems**. This includes: 
+ - Ways of **storing money** and handling transactions. This is some combination of bank accounts, M-Pesa (mobile money) accounts, cryptocurrency wallets, and secure places to keep cash.
+ - A transaction log for **tracking revenues and expenses**. Without tracking expenses it is very easy to overspend (which can cause you to run out of money) or to be a victim of fraud, theft, or mismanagement from within your team. Tracking expenses is normally done using paper, a spreadsheet, or another digital application connected to a database.
+ - A way of **creating and following a budget**. This allows you to predict your expenses, and minimize the need for individuals to make every financial decision. This is also normally done using paper, a spreadsheet, or another digital application connected to a database.
+- Once the systems are set up, you need to **work your systems** by repeatedly practicing our normal 3-step process:
+ - **Plan with clarity**. Try to predict how much money you will have coming in (**revenue projections**) and make your **budget** at the beginning of the month or quarter so that you know how much you'll need to spend. Know how long your runway is (that's how long it would take you to run out of money). The first time you make a budget it might take some time, but it's a skill that you and your team will develop quickly with practice.
+ - **Execute with commitment**. You need to follow the budget, and *record every single revenue and expense transaction* in your **transaction log** as it happens.
+ - **Reflect with composure**. You'll need to undergo regular **reconciliations of accounts**, where you compare your expected amount with the actual amount. You'll want to **review your budget** toward the end of each budgeting period to see how well you did. 
+
+
+ That's it to start with! Once you're good at the above, you'll also want to start generating other financial statements (like the Balance Sheet, Income Statement, and Cashflow Statement) which can help you understand your business better as well as receive grants, secure investment, form better partnerships, and get bigger clients. People prefer to work with individuals and organizations who know how to execute on a plan and aren't likely to become insolvent (run out of money). So engaging in proper [bookkeeping](https://www.wikiwand.com/en/Bookkeeping) can really help.
+
+Personal and team finances are a bit like breathing:
+1. In
+- Out
+
+When you level up your skills and start using money mindfully, the pattern changes a bit:
+1. Money comes in
+- (+) Money is assigned a job 
+- Money goes out
+
+### Personal Finances
+
+Learning to manage your money well is one of the most important things you can do in life. By managing your money and your time, you can grow wealth and improve your life significantly. It's also much easier to do better work when your finances are under control -- it's hard to do your best work when you're worried about the future and paying bills.
+
+- **Plan with clarity**. Make a personal budget. We recommende the You Need A Budget (YNAB) system. It's easy to learn, just follow these steps:
+ - Read the webpage [www.youneedabudget.com](www.youneedabudget.com) and try to memorize the 4 rules of budgeting on the [method page](https://www.youneedabudget.com/method/).
+ - Sign up for the [free email course](http://classic.youneedabudget.com/method/nine-day-course). It will take you at most 15 minutes per day for 9 days to read the emails and take notes (here are [my notes](http://simp.ly/publish/Xcz3r1) and a [wiki on Reddit](https://www.reddit.com/r/ynab/wiki/index)).
+ - Make your first monthly budget!
+- **Execute with commitment**. Just record all your transactions somewhere and spend what you've budgeted. Try not to spend money you haven't budgeted. But don't forget to roll with the punches! 
+- **Reflect with composure**. Be honest with yourself about how well you've done, what went well, and what could be improved. Reflection is a really important part of the learning process, so enjoy it.
+
+Note that there is a [sub-reddit (/r/YNAB) devoted to YNAB](https://www.reddit.com/r/ynab/) where you can ask questions and a [helpful starting guide](https://www.reddit.com/r/ynab/wiki/basics).
+
+### Team Finances
+
+If you are running a service business (where you provide services for clients) you can quite easily follow the You Need A Budget system with your team as well. If you have a lot of inventory (things you're planning to sell) or other capital assets (like equipment used to generate income) then you might need something more complicated, and it's probably worth hiring an accountant.
+
+So, for a service-based organization or school, you can:
+
+- **Plan with clarity**. Make a team/organization budget. We recommende the You Need A Budget (YNAB) system. It's easy to learn, just follow these steps:
+ - Read the webpage [www.youneedabudget.com](www.youneedabudget.com) and try to memorize the 4 rules of budgeting on the [method page](https://www.youneedabudget.com/method/).
+ - Sign up for the [free email course](http://classic.youneedabudget.com/method/nine-day-course). It will take you at most 15 minutes per day for 9 days to read the emails and take notes (here are [my notes](http://simp.ly/publish/Xcz3r1)  and a [wiki on Reddit](https://www.reddit.com/r/ynab/wiki/index)).
+ - Get your team together and make your first monthly budget!
+- **Execute with commitment**. Just record all your transactions somewhere and spend what you've budgeted. Try not to spend money you haven't budgeted. If someone wants to spend something that's not in the budget, they'll have to justify it using a combination of storytelling, solid arguments, and data to support their opinion that the money should be spent. This can encourage everyone to take part in the budgeting process and think more clearly about money.
+- **Reflect with composure**. Have regular reconciliations (you should start with daily or weekly reconciliations until you get good at it) to make sure you haven't forgotten to record any transactions and that your accounts are as full as your records indicate. Be honest with yourselves about how well you've done, what went well, and what could be improved. Reflection is a really important part of the learning process, so enjoy it. We recommend sending your team notes about the budget, and keeping the budget and transaction log as transparent as possible. Everyone on the team should understand the importance of budgeting, and how it works. But their may be a group of people, such as a Finance Committee, that has the ultimate responsibility for budgeting and recording transactions.
+
+Note that there is a [sub-reddit (/r/YNAB) devoted to YNAB](https://www.reddit.com/r/ynab/) where you can ask questions and a [helpful starting guide](https://www.reddit.com/r/ynab/wiki/basics).
+
+### International Compliance
+[TODO]
