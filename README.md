@@ -1,6 +1,6 @@
 # Welcome
 
-Hi there! Welcome to the Pandacracy Guidebook. The Guidebook will help guide you on your journey to manifesting your best self while engaging in lifelong learning, earning, and problems solving.
+Welcome to the Pandacracy Guidebook. The Guidebook will help guide you on your journey to manifesting your best self while engaging in lifelong learning, earning, and problems solving.
 
 This is an evolving Guidebook to maintaining the energy and focus of self-managing teams and organizations. Since teams are made up of individuals, we place a strong focus on each individual's journey. 
 
@@ -54,9 +54,9 @@ Tunapanda Institute is a small but relatively complex ("full stack") non-profit 
 
 We see 3 primary functions of our team:
 
-1. **Teaching and learning.** This is who we are. We run a training facility in the outskirts of Kibera, a large Nairobi informal settlement. Training and school operations are now largely performed by graduates of our 3-month basic training program and the 25 young people who are accepted into a cohort pay no fees and even receive a small stipend to take part.
-2. **Producing and distributing.** This is how we send [energy](http://organizationalphysics.com/2012/02/20/the-universal-success-formula/) out into the world. We buid open source software and create open learning resources that digitize and extend our core training so that other individuals, groups, and organizations can copy our model and help improve on it.
-3. **Selling and earning.** This brings energy in so we can keep being who we are. We perform services for clients and (try to) convince people to support what we're doing. In order to maintain our reputation we have to execute well on work for clients by performing work creating curricula, digitizing materials, building software, peforming research using human centered design (HCD) methodologies, and consulting for others who wish to copy/modify our model.
+1. **Training and learning.** This is who we are. We run a training facility in the outskirts of Kibera, a large Nairobi informal settlement. Training and school operations are now largely performed by graduates of our 3-month basic training program and the 25 young people who are accepted into a cohort pay no fees and even receive a small stipend to take part.
+2. **Powering and partnering.** This is how we send [energy](http://organizationalphysics.com/2012/02/20/the-universal-success-formula/) out into the world. We buid open source software and create open learning resources that digitize and extend our core training so that other individuals, groups, and organizations can copy our model and help improve on it.
+3. **Producing and selling.** We provide a range of digital services to clients. This brings energy in so we can keep being who we are. In order to maintain our reputation we have to execute well on work for clients by performing work creating curricula, digitizing materials, building software, peforming research using human centered design (HCD) methodologies, and consulting for others who wish to copy/modify our model.
 
 In order to accomplish this we divide our organization into various **circles**, which operate semi-autonomously, some of which are connected through "strategic grouping."
 
@@ -64,7 +64,10 @@ Soon we'll draw a diagram, but for now look at it this way:
 
 ### A Complete Map of the Tunapanda Institute Circles
 * Tunapanda Core Circle
- * Learning Space
+ * Tunapanda Team
+ * Trained by Tunapanda
+ * Produced by Tunapanda
+ * Powered by Tunapanda
 
 # Energy Points
 The assignment of energy points allows peer-to-peer evaluation of roles within a given circle. The points take on meaning when bonus money (usually from work performed for clients) flows through the energy points system.
@@ -72,7 +75,13 @@ The assignment of energy points allows peer-to-peer evaluation of roles within a
 The process is as follows:
 [TODO]
 
-# Money
+# Core Skills
+
+“The way to wealth is as plain as the way to market. It depends chiefly on two words, industry and frugality: that is, waste neither time nor money, but make the best use of both. Without industry and frugality nothing will do, and with them everything.” - Benjamin Franklin
+
+Every individual and team needs to have and practice skills of managing one's own time/energy and money. On top of those foundations, we need strong communication and other teamwork skills in order to excel.
+
+## Managing Money
 
 Money is a very interesting technology. It serves a variety of functions, which we'll discuss elsewhere.
 
@@ -86,7 +95,7 @@ The above documentary series should give you enough **perspective about money** 
 
 Understanding and managing money is a very important part of being a responsible member of society, team member, and family member. So please take it seriously, and don't be afraid to talk about how money works with other people!
 
-## Practical Financial Skills
+### Practical Financial Skills
 
 Managing finances in a responsible, transparent manner takes a bit of time, energy, and focus:
 - First you need to **set up the right systems**. This includes: 
@@ -110,7 +119,7 @@ When you level up your skills and start using money mindfully, the pattern chang
 2. (+) Money is assigned a job 
 3. Money goes out
 
-### Personal Finances
+#### Personal Finances
 
 Learning to manage your money well is one of the most important things you can do in life. By managing your money and your time, you can grow wealth and improve your life significantly. It's also much easier to do better work when your finances are under control -- it's hard to do your best work when you're worried about the future and paying bills.
 
@@ -123,7 +132,7 @@ Learning to manage your money well is one of the most important things you can d
 
 Note that there is a [sub-reddit (/r/YNAB) devoted to YNAB](https://www.reddit.com/r/ynab/) where you can ask questions and a [helpful starting guide](https://www.reddit.com/r/ynab/wiki/basics).
 
-### Team Finances
+#### Team Finances
 
 If you are running a service business (where you provide services for clients) you can quite easily follow the You Need A Budget system with your team as well. If you have a lot of inventory (things you're planning to sell) or other capital assets (like equipment used to generate income) then you might need something more complicated, and it's probably worth hiring an accountant.
 
@@ -138,5 +147,34 @@ So, for a service-based organization or school, you can:
 
 Note that there is a [sub-reddit (/r/YNAB) devoted to YNAB](https://www.reddit.com/r/ynab/) where you can ask questions and a [helpful starting guide](https://www.reddit.com/r/ynab/wiki/basics).
 
-### International Compliance
+#### International Compliance
 [TODO]
+
+# Gigs
+
+Working on gigs is a great way to hone your skills and solve problems in your community or around the world. Someone who works on gigs on their own is called a "freelancer" and a team of people is called a "consultancy" or "agency". Pandacracy, in it's current form, involves a team of people performing gigs together as a consultancy or agency.
+
+Gigs are normally short-term, but they can also be long-term. Pandacracy involves practice proper project management, often in an [Agile](https://medium.com/@interkatie/mangement-buzzwords-decoded-flat-holocracy-lean-agile-responsive-936185762493) manner, even in our smaller gigs. 
+
+## Gig-Finding and Gig-Doing
+
+Running a business or startup requires two basic skills:
+1) Selling
+2) Producing
+
+Ideally, **selling** is about forming relationships and solving problems. Often, big clients start out as small clients. They'll give you something small to work on and see if you communicate well, do the work effectively, and complete deliverables on time. "Gig-finding" is all about closing deals and helping to manage client relationships. Gig-finding is a prerequisite to gig-doing. If you can't get someone to pay you for something yet, you can help them solve problems for free. Just be sure to "label your concessions" -- that means that you tell them clearly, "Well, it's going to take quite a bit of time and sacrifice for me to do this, but I know you'll be appreciative and make referrals." Failure to label your concessions can make people devalue your work; sometimes they'll think that ***they*** are the ones doing ***you*** a favor. We humans are a strange bunch.
+
+**Producing** is about creating something that solves a problem for another person, group, or business. Normally, it is a business problem that will help them earn more or spend less. In the case of impact-focused organizations (like NGOs) it will help them spread the word about their work and/or rise in stature.
+
+### The Mechanics of Gig-Finding
+
+Anyone can find a gig which can help keep Tunapanda Institute going. It's not easy, though -- it requires tough skin, the willingness to hear "no", and a true growth mindset. 
+
+Here's the basic process:
+1)
+a) Meet someone socially or at an event. Show that you're passionate and competent and care bout your work/team and they'll assume that Tunapanda is also passionate and competent. Make sure to ask questions to learn about them.
+b) Find someone. Another option is to have develped your business model and then go out and find people/businesses who match your criteria. For example, you might want to build websites for travel companies. You can then look for sites that show up late in your searches and offer them new websites or improved SEO. You still need to communicate well and learn more about them.
+2) Once you've identified a problem they have, tell them you and your team can solve it. Sometimes they know they need a website, other times they aren't aware that SEO can help improve their online presnes. Be clear about the value for them. Remember: this is usually business value (they earn more or spend less) but can include other value, such as more impact, improved visibility, better reputation, etc. 
+3) Write up a short proposal to make sure you're on the same page. This can be called an LOI (Letter of Intent -- we have a repository of past LOIs in our Team Drive you can learn from). There is also some negotiation that needs to take place during this phase. You should be talking to the team to make sure we have the right skills and that they key team members will be able to deliver in the timeframe you're suggestion -- if they're busy on other projects, or aren't interested for some other reason, they won't be available. Also, if you've screwed them over in a past gig (accidentally or on purpose) and haven't patched things up, they might not want to work with you again.
+4) Clarify the details, especially if it is a fairly large gig. Thic can be called a TOR (Terms of Reference -- we also have examples of these for you to learn from) and might also include a contract. Again, more negotiation. You want to start having a project plan with estimated timeframes 
+5) If you've negotiated an up-front payment, send them an invoice. Once they've paid, ensure consistent and clear communication. Remember: good business is about relationships, not just transactions. You are helping to create a great experience for clients as well as solve problems for them.
