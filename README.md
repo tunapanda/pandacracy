@@ -168,7 +168,7 @@ Ideally, **selling** is about forming relationships and solving problems. Often,
 
 ### The Mechanics of Gig-Finding
 
-Anyone can find a gig which can help keep Tunapanda Institute going. It's not easy, though -- it requires tough skin, the willingness to hear "no", and a true growth mindset. 
+Anyone can find a gig which can help keep Tunapanda Institute going. It's not easy, though -- it requires tough skin, the willingness to hear "no" (a lot), and a true growth mindset. However, it is an indispensable skill that will help you in all walks of life. If you sell a lot of gigs for Tunapanda that will not only help keep our training free, but it will add some real substance to your CV that can help you 
 
 Here's the basic process:
 1)
@@ -178,3 +178,14 @@ b) Find someone. Another option is to have develped your business model and then
 3) Write up a short proposal to make sure you're on the same page. This can be called an LOI (Letter of Intent -- we have a repository of past LOIs in our Team Drive you can learn from). There is also some negotiation that needs to take place during this phase. You should be talking to the team to make sure we have the right skills and that they key team members will be able to deliver in the timeframe you're suggestion -- if they're busy on other projects, or aren't interested for some other reason, they won't be available. Also, if you've screwed them over in a past gig (accidentally or on purpose) and haven't patched things up, they might not want to work with you again.
 4) Clarify the details, especially if it is a fairly large gig. Thic can be called a TOR (Terms of Reference -- we also have examples of these for you to learn from) and might also include a contract. Again, more negotiation. You want to start having a project plan with estimated timeframes 
 5) If you've negotiated an up-front payment, send them an invoice. Once they've paid, ensure consistent and clear communication. Remember: good business is about relationships, not just transactions. You are helping to create a great experience for clients as well as solve problems for them.
+6) Remember that you're going to want to help the gig-doing team as best you can, and ensure consistent communication with the client. The higher the team's expenses, the less money you'll make. If they don't do a good enough job, your reputation will suffer with the client and (potentially) other people in the client's network.
+
+### The Mechanics of Gig-Doing
+
+### Payments and Expenses
+
+Currently (September 2017), 50% of the gig money goes to Tunapanda and and 50% to the gig-finding and gig-doing team. It would be great to see this shift to something like 20% going to Tunapanda and 80% going to the gig-finding and gig-doing teams. In order to make this happen, we need much higher revenues (and/or much lower expenses).
+
+Note: the money is only divided AFTER expenses. This means that the burden of each gig expense is shared by the gig-finders (25%), gig-doers (25%), and Tunapanda at large (50%).
+
+As you think about the profit that comes from gigs, you should think in terms of both time/energy and money spent. Spending more time can help develop skills, but it can also be wasteful. This section deals with financial expenses.
