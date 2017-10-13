@@ -150,11 +150,29 @@ Note that there is a [sub-reddit (/r/YNAB) devoted to YNAB](https://www.reddit.c
 #### International Compliance
 [TODO]
 
-# Gigs
+# Produced by Tunapanda
+
+The Produced by Tunapanda Circle is all about performing quality services to solve problems and create value for clients and partners. This is an important part about what makes the Pandacracy model sustainable, and enables us to freely provide high-quality, intensive learning experiences to members of the community (Trained by Tunapanda). 
+
+The skills developed undertaking client projects and energizing roles in Produced by Tunapanda are vital for your career in the knowledge economy. Anyone who wants to be an entrepreneur, freelancer, or independent consultant needs to have experience in selling ("gig-finding") and producing ("gig-doing"). If you want someone to give you their money to grow your business (i.e. get investment) they are certainly going to want to know what you've done to bring in revenue to Tunapanda. If you want to form a paid partnership or secure a big client, you will have a much better chance if you can show your track record of creating value and leading projects at Tunapanda. We want each of our team members to be able to proudly demonstrate the value they've created when they take further steps in Tunapanda or afterwards. If Tunapanda's reputation grows, it will reflect well on you. If you do well in the future, it will reflect well on Tunapanda. It's very important to remember that knowledge economy business is not a zero-sum game: one plus one can equal three.
+
+The revenues earned in Produced by Tunapanda are used in several ways:
+- Paying the gig team (this includes gig-finders and gig-doers)
+
+The percent that goes to the gig-doing team changes based on how well our overall organization is doing financially. The more our revenues exceed our expenses, the higher the percent that goes to the gig team (and the lower the percent that goes to Tunapanda). This is a classic cooperative model.
+
+
+
+## Gigs
 
 Working on gigs is a great way to hone your skills and solve problems in your community or around the world. Someone who works on gigs on their own is called a "freelancer" and a team of people is called a "consultancy" or "agency". Pandacracy, in it's current form, involves a team of people performing gigs together as a consultancy or agency.
 
 Gigs are normally short-term, but they can also be long-term. Pandacracy involves practice proper project management, often in an [Agile](https://medium.com/@interkatie/mangement-buzzwords-decoded-flat-holocracy-lean-agile-responsive-936185762493) manner, even in our smaller gigs. 
+
+As with most activities in Pandacracy, it is important to follow the 3-step process:
+1. Plan with clarity.
+2. Execute with commitment.
+3. Reflect with composure.
 
 ## Gig-Finding and Gig-Doing
 
